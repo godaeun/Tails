@@ -14,7 +14,7 @@ var trailY3 = 0;
 
 function setup()
 {
-	createCanvas(800,600);
+	createCanvas(800, 600);
 	noFill();
 	stroke(255, 0, 0);
 
